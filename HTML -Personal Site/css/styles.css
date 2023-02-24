@@ -1,0 +1,49 @@
+body {
+  margin: 0 50px;
+  background-color: #A7BBC7;
+  padding: 2% 10%;
+}
+.navbar {
+  padding-bottom: 4rem;
+}
+.navbar-brand {
+  color: #FFCF4A;
+  font-size: 2rem;
+}
+.navbar-brand:hover {
+  color: blue;
+}
+
+
+
+.big-heading {
+ font-family: "Merriweather-Black";
+ color: black;
+ font-size: 4rem;
+ font-style: oblique;
+ font-weight: bold;
+ text-shadow: black;
+
+}
+
+
+hr{
+  background-color: black;
+
+
+  width: 40%;
+  border-width: 2px;
+}
+img{
+  border-radius: 50px;
+  border: 2px solid black;
+  float: left;
+}
+
+div {
+   height: 100px;
+   width: 100px;
+   border: 1px solid;
+   position: absolute;
+
+}
